@@ -1,4 +1,4 @@
-### Setup Docker Laravel 10 com PHP 8.1
+# Setup Docker Laravel 10 com PHP 8.1
 
 ## Passo a passo para rodar o projeto
 Clone o projeto
